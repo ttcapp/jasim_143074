@@ -48,7 +48,6 @@ class _LogInState extends State<LogIn> {
                     else if(text != _email){
                       return "Invalid Email";
                     }
-
                   },
                   autofocus: true,
 
